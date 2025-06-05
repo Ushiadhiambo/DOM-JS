@@ -1,0 +1,76 @@
+body{
+    background-color: silver;
+}
+#fruList{
+    list-style: none;
+    border: 1px solid silver;
+     box-shadow: 0 8px 32px rgba(0,0,0,0.2);
+     width: 80%;
+     margin-left: 10em;
+     padding: 30px;
+
+ 
+}
+#vegList{
+    list-style: none;
+    border: 1px solid silver;
+     box-shadow: 0 8px 32px rgba(0,0,0,0.2);
+     width: 80%;
+     margin-left: 10em;
+     padding: 30px;
+}
+.clickable{
+    cursor: pointer;
+   
+}
+.clickable1{
+    cursor: pointer;
+   
+}
+.clickable2{
+    cursor: pointer;
+   
+}
+.clickable3{
+    cursor: pointer;
+   
+}
+.clickable4{
+    cursor: pointer;
+   
+}
+.clickable5{
+    cursor: pointer;
+   
+}
+#text{
+     margin-top: 20.1em;
+     margin-left: 0.5em;
+ 
+
+}
+#text1{
+     margin-top: 20.1em;
+     margin-left: 0.5em;
+ 
+
+}
+#text3{
+     margin-top: 24em;
+     margin-left: 0.5em;
+ 
+
+}
+#text5{
+     margin-top: 24em;
+     margin-left: 0.5em;
+ 
+
+}
+
+#text6{
+     margin-top: 24.1em;
+     margin-left: 0.5em;
+ 
+
+}
